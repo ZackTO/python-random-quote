@@ -1,5 +1,5 @@
 def primary():
-  # print("salut a tous.")
+  print("Keep it logically awesome.")
 
   #f = open("quotes.txt")
   #quotes = f.readlines()
